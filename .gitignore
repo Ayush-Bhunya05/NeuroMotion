@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+venv/
+env/
+.env
+
+# Expo files
+.expo/
+dist/
+web-build/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backend uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Local config
+.vscode/
+.idea/

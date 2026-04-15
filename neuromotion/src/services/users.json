@@ -1,0 +1,42 @@
+{
+  "patients": [],
+  "doctors": [
+    {
+      "id": "DOC-PHYS-01",
+      "name": "Dr. Sarah Chen",
+      "email": "sarah.phys@neuromotion.ai",
+      "contact": "+1 (555) 123-4567",
+      "specialty": "Physical Rehab",
+      "module": "physical",
+      "role": "doctor"
+    },
+    {
+      "id": "DOC-PHYS-02",
+      "name": "Dr. Marcus Thorne",
+      "email": "marcus.phys@neuromotion.ai",
+      "contact": "+1 (555) 987-6543",
+      "specialty": "Kinematic Specialist",
+      "module": "physical",
+      "role": "doctor"
+    },
+    {
+      "id": "DOC-COG-01",
+      "name": "Dr. Elena Vance",
+      "email": "elena.cog@neuromotion.ai",
+      "contact": "+1 (555) 246-8135",
+      "specialty": "Neuro-Cognitive Specialist",
+      "module": "cognitive",
+      "role": "doctor"
+    },
+    {
+      "id": "DOC-COG-02",
+      "name": "Dr. Julian Black",
+      "email": "julian.cog@neuromotion.ai",
+      "contact": "+1 (555) 369-1215",
+      "specialty": "Neuroplasticity Researcher",
+      "module": "cognitive",
+      "role": "doctor"
+    }
+  ],
+  "guardians": []
+}
